@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramdular Yadav</h1>
 <h3 align="center">AI/ML Engineer | NLP & Computer Vision Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left">
   <img src="https://drive.google.com/file/d/13VfMxs-vFEhfeAnazsqsiCqwPcW_2Kdv/view?usp=sharing" alt="Ramdular Yadav" width="200" height="200" style="border-radius: 50%;">

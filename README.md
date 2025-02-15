@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ramdular Yadav</h1>
-<h3 align="center">AI/ML Engineer | NLP & Computer Vision Enthusiast | Full-Stack Developer</h3>
+<h1 align="left">🚀 Ramdular Yadav - AI/ML Engineer </h1>
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13VfMxs-vFEhfeAnazsqsiCqwPcW_2Kdv" alt="Ramdular Yadav" width="200" height="200" style="border-radius: 50%;">
-</p>
-
----
-
-## 🚀 About Me:
-- 🔭 Currently working on **[FuturProctor: In-Browser Proctoring System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)**
-- 🌱 Exploring **Generative AI, RAG, and LLMs**
-- 🤝 Developed **AI-powered Resume Parser & Ranking System**
-- 📊 Built **Image Caption Generator, MCQ Generator using Gemini Models**
-- 💡 Passionate about **NLP, Computer Vision, and AI in Education**
-- 💼 AI Research Intern & **Junior ML Engineer focusing on OCR & NLP**
-- 🎤 Conducting AI Sessions at my College (CX50) on **Mathematics in AI**
-- 📫 Reach me at **rammey115@gmail.com**
-- ⚡ Fun Fact: **An introvert who lets AI do the talking!** 🤖
+<div align="left">
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 Currently working on <b>[FuturProctor: AI-Powered Proctoring System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)</b></li>
+        <li>📚 Learning <b>Generative AI, RAG, LangChain, and LLMs</b></li>
+        <li>🚀 Built <b>Resume Parser & Ranking System, Image Caption Generator, MCQ Generator</b></li>
+        <li>🛠️ Passionate about <b>AI and Data Science </b></li>
+        <li>📬 Reach me at: <b>rammey115@gmail.com</b></li>
+      </ul>
+    </div>
+    <div style="flex: 0.5;">
+      <img src="https://drive.google.com/uc?export=view&id=1t82Jmuh-VmwI4TNPq0MY89Fp8cLv6Jhn" 
+           alt="Ramdular Yadav" width="200" height="200" style="border-radius: 50%; border: 3px solid #0078D4; padding: 5px;">
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -53,21 +54,18 @@
 
 ---
 
-## 🔥 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpram&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helpram&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helpram&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats & Streaks:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helpram&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helpram&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helpram&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies:
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=helpram&theme=radical" alt="GitHub Trophies" />
   </a> 

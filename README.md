@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ram Dular </h1>
-<h3 align="center">Exploring Data Science</h3>
+<h3 align="center">AI/ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helpram&label=Profile%20views&color=0e75b6&style=flat" alt="helpram" /> </p>
@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/@ram103888" target="blank"><img src="https://img.shields.io/twitter/follow/@ram103888?logo=twitter&style=for-the-badge" alt="@ram103888" /></a> </p>
 
-- 🔭 I’m currently working on [End to End ML Project](https://github.com/HelpRam/End-to-End-ML-project)
+- 🔭 I’m currently working on [Futureproctor:Online Exam Detection System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Generative AI **
 
-- 👯 I have collaborate with **Pragati APP**
-
-- 📝 I regularly write articles on [https://techzfusion.com/](https://techzfusion.com/)
+- 👯 I have collaborate with **Futureproctor: An inbrowser Proctoring System**
 
 - 📫 How to reach me **rammey115@gmail.com**
 

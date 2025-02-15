@@ -1,18 +1,15 @@
 <!-- Professional GitHub Profile Readme -->
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px;">
-  <div>
-    <h1 style="margin: 0;">🚀 Ramdular Yadav</h1>
-    <h2 style="margin: 0; color: #586069;">AI/ML Engineer</h2>
-  </div>
-  <div>
-    <img src="https://drive.google.com/uc?export=view&id=1t82Jmuh-VmwI4TNPq0MY89Fp8cLv6Jhn" 
-         alt="Ramdular Yadav" width="200" height="200" 
-         style="border-radius: 50%; border: 3px solid #0078D4; padding: 5px;">
-  </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=helpram&label=Profile%20views&color=0e75b6&style=flat" alt="helpram" />
+</p>
+
+<div align="center">
+  <h1>Hi, I'm Ramdular Yadav</h1>
+  <h2>AI/ML Engineer</h2>
 </div>
 
-<br>
+---
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **[FuturProctor: AI-Powered Proctoring System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)**
@@ -56,23 +53,6 @@
 
 ---
 
-## 💼 Professional Experience
-- **AI/ML Engineer** at *[Your Company Name]* (Year - Present)
-  - Leading the development of AI-powered solutions including an in-browser proctoring system.
-  - Collaborating with cross-functional teams to integrate machine learning models into production.
-- **Data Scientist** at *[Previous Company Name]* (Year - Year)
-  - Developed and deployed machine learning models for data analysis and prediction.
-  - Optimized data processing pipelines, resulting in a significant increase in efficiency.
-
----
-
-## 📁 Key Projects
-- **FuturProctor:** An AI-powered proctoring system for remote exam monitoring. [GitHub Repository](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)
-- **Resume Parser & Ranking System:** A tool to extract, parse, and rank resumes using advanced NLP techniques.
-- **Image Caption Generator:** A project that generates descriptive captions for images using deep learning.
-
----
-
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
@@ -94,9 +74,18 @@
 ---
 
 ## 📬 Connect with Me
+
 <div align="left">
-  <a href="https://twitter.com/ram103888" target="_blank"><img src="https://img.shields.io/twitter/follow/ram103888?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/ram-dular-yadav-1611b0228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/ramdular" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" /></a>
-  <a href="https://www.instagram.com/ram_11700/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com/ram103888" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ram103888?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/ram-dular-yadav-1611b0228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/ramdular" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+  </a>
+  <a href="https://www.instagram.com/ram_11700/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>

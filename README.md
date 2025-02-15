@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helpram&label=Profile%20views&color=0e75b6&style=flat" alt="helpram" /> </p>
 
 ### 🚀 About Me:
-- 🔭 Currently working on **[FuturProctor: In-Browser Proctoring System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)**
+- 🔭 Currently working on **[FutureProctor: In-Browser Proctoring System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)**
 - 🌱 Exploring **Generative AI, RAG, and LLMs**
-- 🤝 Collaborated on **AI-driven EdTech and Resume Parsing Projects**
+- 🤝 Collaborated on **AI-driven EdTech and FutureProctor: In-Browser Proctoring System Projects**
 - 💡 Passionate about **NLP, Computer Vision, and AI in Education**
 - 📫 Reach me at **rammey115@gmail.com**
 - ⚡ Fun Fact: **An introvert who lets AI do the talking!**
@@ -17,9 +17,9 @@
 ### 📬 Connect with Me:
 <p align="left">
 <a href="https://twitter.com/ram103888" target="blank"><img src="https://img.shields.io/twitter/follow/ram103888?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/ramdularyadav" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ram-dular-yadav-1611b0228/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://kaggle.com/ramdular" target="blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" /></a>
-<a href="https://instagram.com/ramdular115" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/ram_11700/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---

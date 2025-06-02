@@ -12,9 +12,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **[FuturProctor: AI-Powered Proctoring System](https://github.com/HelpRam/An-Inbrowser-Proctoring-System)**
-- 📚 Learning **Generative AI, RAG, LangChain, and LLMs**
-- 🚀 Developed **Resume Parser & Ranking System, Image Caption Generator, MCQ Generator**
+- 📚 Learning **Generative AI,FastAPI And MLOPS**
+- 🚀 Developed **AI-BASED Online Exam proctoring System, Resume Parser & Ranking System, Image Caption Generator, MCQ Generator**
 - 🛠️ Passionate about **AI and Data Science**
 - 📬 Reach me at: **[rammey115@gmail.com](mailto:rammey115@gmail.com)**
 
@@ -40,7 +39,6 @@
 
 ### 🔹 DevOps & Cloud:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔹 NLP & OCR:

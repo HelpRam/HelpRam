@@ -35,6 +35,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF9800?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 ### 🤖 Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -91,6 +92,8 @@
 - ⭐ 2 Stars | 📥 Active Development
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🖼️ [Image Caption Generator](https://github.com/HelpRam/image-captioinoing-using-vision-transformer)
@@ -100,11 +103,28 @@
 - 🔥 MIT License | 🚀 Production Ready
 
 </td>
+<td width="50%">
+
+#### 🏥 [Medical Imaging Diagnosis Agent](https://github.com/HelpRam/Medical-Imaging-Diagnosis-Agent)
+**Technologies:** `Deep Learning` `Medical AI` `Computer Vision`
+- AI-powered medical image analysis
+- Automated diagnosis assistance
+- 🔬 Healthcare Innovation
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
+#### 📝 [MCQ Generator](https://github.com/HelpRam/MCQ-Generator)
+**Technologies:** `NLP` `LLMs` `Question Generation` `FastAPI`
+- Automated multiple-choice question generation
+- Content analysis and difficulty assessment
+- Educational content creation tool
+- 🎯 AI-Powered Assessment
 
+</td>
+<td width="50%">
 
 #### 🤖 [Agentic AI with LangGraph](https://github.com/HelpRam/Agentic-AI-with-Langgraph)
 **Technologies:** `LangGraph` `LangChain` `Agentic AI`
@@ -139,6 +159,26 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### 🎭 [Generative AI Project](https://github.com/HelpRam/Generative-AI-Project)
+**Technologies:** `Generative Models` `Deep Learning` `Creative AI`
+- Innovative generative AI applications
+- Creative content generation
+- 🎨 Artistic AI Solutions
+
+</td>
+<td width="50%">
+
+#### 🔥 [PyTorch Mastery](https://github.com/HelpRam/Mastering-Pytorch)
+**Technologies:** `PyTorch` `Deep Learning` `Neural Networks`
+- Comprehensive PyTorch implementations
+- Advanced deep learning techniques
+- 📖 Learning Resource
+
+</td>
+</tr>
 </table>
 
 ### 🏗️ **Full-Stack Development**
@@ -161,6 +201,26 @@
 - ML-powered price prediction system
 - Interactive web interface
 - 📊 Data-driven insights
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🐕 [Dogs vs Cats Classification](https://github.com/HelpRam/Dogs_vs_cat_classification)
+**Technologies:** `CNN` `Image Classification` `TensorFlow`
+- Classic computer vision problem
+- Deep learning for image recognition
+- 🎯 Binary Classification
+
+</td>
+<td width="50%">
+
+#### 🌐 [Portfolio Website](https://github.com/HelpRam/ramdular.github.io)
+**Technologies:** `HTML` `CSS` `JavaScript`
+- Personal portfolio showcase
+- Responsive web design
+- 💼 Professional Presence
 
 </td>
 </tr>
@@ -200,6 +260,12 @@
 ![Languages](https://img.shields.io/badge/Languages-5+-00d4ff?style=for-the-badge)
 ![Years Active](https://img.shields.io/badge/Years%20Active-2+-00d4ff?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contributions-500+-00d4ff?style=for-the-badge)
+
+### 🎯 **Specializations**
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Expert-ff6b6b?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Advanced-4ecdc4?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Proficient-45b7d1?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-Learning-feca57?style=for-the-badge)
 
 </div>
 

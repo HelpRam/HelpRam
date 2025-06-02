@@ -18,10 +18,10 @@
 🎯 **Mission**: *Training models, training myself* - constantly evolving in the AI/ML landscape
 
 - 🔬 **Currently Learning**: Generative AI, FastAPI, and MLOps
-- 🏆 **Specialized in**: Computer Vision, NLP, and Agentic AI Systems  
+- 🏆 **Major Projects**: AI Exam Proctoring System, Resume Parser & Ranking System, Image Caption Generator, MCQ Generator
 - 🌟 **Passion**: Building intelligent systems that solve real-world problems
 - 📧 **Contact**: [rammey115@gmail.com](mailto:rammey115@gmail.com)
-- 🎓 **Focus Areas**: Deep Learning, LLMs, and AI-powered Applications
+- 🎓 **Focus Areas**: Computer Vision, NLP, EdTech AI, and Agentic AI Systems
 
 ---
 
@@ -74,6 +74,16 @@
 <tr>
 <td width="50%">
 
+#### 👁️ [AI-Based Online Exam Proctoring System](https://github.com/HelpRam/AI-Exam-Proctoring)
+**Technologies:** `Computer Vision` `MediaPipe` `Face Detection` `Eye Tracking`
+- Real-time student monitoring and behavior analysis
+- Multi-modal cheating detection (face, eye, pose tracking)
+- Automated suspicious activity alerts
+- 🎓 EdTech Innovation | 🛡️ Academic Integrity
+
+</td>
+<td width="50%">
+
 #### 🔍 [Resume Parser & Ranking System](https://github.com/HelpRam/Resume-Parser-Using-OCR-and-NLP)
 **Technologies:** `Python` `OCR` `NLP` `Tesseract`
 - Intelligent resume parsing using OCR and NLP
@@ -94,14 +104,7 @@
 <tr>
 <td width="50%">
 
-#### 🏥 [Medical Imaging Diagnosis Agent](https://github.com/HelpRam/Medical-Imaging-Diagnosis-Agent)
-**Technologies:** `Deep Learning` `Medical AI` `Computer Vision`
-- AI-powered medical image analysis
-- Automated diagnosis assistance
-- 🔬 Healthcare Innovation
 
-</td>
-<td width="50%">
 
 #### 🤖 [Agentic AI with LangGraph](https://github.com/HelpRam/Agentic-AI-with-Langgraph)
 **Technologies:** `LangGraph` `LangChain` `Agentic AI`
